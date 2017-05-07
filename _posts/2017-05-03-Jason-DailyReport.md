@@ -2,7 +2,7 @@
 layout:     post
 title:      "Jason Daily Report"
 subtitle:   "Test"
-date:       20175-05-03 12:00:00
+date:       2017-05-07 12:00:00
 author:     "AwesomeJason"
 header-img: "img/post-bg-01.jpg"
 ---
